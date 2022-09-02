@@ -1,0 +1,17 @@
+.Home{
+    display: flex;
+    min-height: 305px;
+    margin-top: 190px;
+    justify-content: center;
+
+}
+.box1{
+    /* border:1px solid; */
+    height:250px;
+    width:30%;
+}
+.box2{
+    /* border:1px solid; */
+    height:250px;
+    width:30%;
+}

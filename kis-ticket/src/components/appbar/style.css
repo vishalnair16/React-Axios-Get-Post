@@ -1,0 +1,32 @@
+.Box{
+    background-color: #00a0dd;
+    height:120px;
+    margin-top: 64px;
+}
+.Name{
+    margin: 0;
+    color: white;
+    padding-top: 30px;
+    padding-right: 70%;
+}
+.Appbar{
+    width:100%;
+}
+.Cart-button{
+    display: flex;
+    margin-left: 50%;
+    margin-right: 0%;
+}
+
+
+@media screen and (max-width: 900px){
+    .Logo-image{
+        padding-left: 10%;
+    }
+}
+@media screen and (max-width: 600px){
+    .Name{
+        padding-right: 0%;
+    }
+}
+  

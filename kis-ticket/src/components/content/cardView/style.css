@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px){
+    .Card-Size{
+        min-width: 275px;
+    }
+}
+@media screen and (max-width: 800px){
+    .Card-Size{
+        min-width: 475px;
+    }
+}

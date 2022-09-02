@@ -1,0 +1,17 @@
+.Footer{
+    display: flex;
+    position: static;
+    bottom: 0%;
+    background-color: white;
+    list-style: none;
+    text-decoration: none;
+    justify-content: space-evenly;
+    
+}
+@media screen and (max-width: 700px){
+    .Footer{
+        align-items: center;
+        flex-direction:column-reverse;
+    }
+}
+    
